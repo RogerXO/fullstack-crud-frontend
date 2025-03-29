@@ -6,7 +6,8 @@
 .RData
 .RDataTmp
 
-node_modules
+#dependencies
+/node_modules
 
 # User-specific files
 .Ruserdata
